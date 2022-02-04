@@ -39,7 +39,11 @@ background-size: cover;
   border-bottom: .25rem solid transparent;
 }
 
-.nav-masthead .nav-link:hover,
+.nav-masthead .nav-link:hover {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
 .nav-masthead .nav-link:focus {
   border-bottom-color: rgba(255, 255, 255, .25);
 }
