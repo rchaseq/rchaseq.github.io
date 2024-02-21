@@ -14,13 +14,6 @@ const SEO = [
 	},
 
 	{
-		page: "articles",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Rowan", "Rowan Q", "Rowan Quinn"],
-	},
-
-	{
 		page: "projects",
 		description:
 			"I have worked on a variety of projects over the years, and I am proud of the progress I've made.",
