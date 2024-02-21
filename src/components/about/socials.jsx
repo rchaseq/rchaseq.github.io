@@ -26,7 +26,6 @@ const Socials = () => {
 						/>
 					</div>
 					<div className="social-text">Follow me on LinkedIn</div>
-
 			<div className="social">
 				<a href={INFO.socials.github} target="_blank" rel="noreferrer">
 					<div className="social-icon">
@@ -38,11 +37,8 @@ const Socials = () => {
 					<div className="social-text">Follow me on GitHub</div>
 				</a>
 			</div>
-
-
 				</a>
 			</div>
-
 			<div className="social">
 				<a
 					href={INFO.socials.stackoverflow}
@@ -58,7 +54,6 @@ const Socials = () => {
 					<div className="social-text">Follow on Stack Overflow</div>
 				</a>
 			</div>
-
 			<div className="email">
 				<div className="email-wrapper">
 					<a
@@ -69,7 +64,6 @@ const Socials = () => {
 						<div className="social-icon">
 							<FontAwesomeIcon icon={faEnvelope} />
 						</div>
-
 						<div className="social-text">{INFO.main.email}</div>
 					</a>
 				</div>
