@@ -1,9 +1,10 @@
 # Rowan Quinn Portfolio
-## Portfolio website built in React
+
+## My portfolio website built in React
 
 This is a website built to demonstrate my technical skills and understanding of object-oriented programming through personal projects.
 
-# Technologies Used
+## Technologies Used
 
     HTML5
     CSS3
