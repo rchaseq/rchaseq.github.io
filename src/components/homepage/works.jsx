@@ -19,11 +19,11 @@ const Works = () => {
 								alt="facebook"
 								className="work-image"
 							/>
-							<div className="work-title">Facebook</div>
+							<div className="work-title">Employer</div>
 							<div className="work-subtitle">
-								Software Engineer
+								Job Title
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">20XX - Present</div>
 						</div>
 
 						<div className="work">
@@ -32,11 +32,11 @@ const Works = () => {
 								alt="twitter"
 								className="work-image"
 							/>
-							<div className="work-title">Twitter</div>
+							<div className="work-title">Employer</div>
 							<div className="work-subtitle">
-								Software Engineer
+							Job Title
 							</div>
-							<div className="work-duration">2019 - Present</div>
+							<div className="work-duration">20XX - Present</div>
 						</div>
 					</div>
 				}

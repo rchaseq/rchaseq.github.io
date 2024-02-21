@@ -37,7 +37,7 @@ const INFO = {
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://rchaseq.github.io/mouse-runner/",
+			link: "http://rchaseq.github.io/mouse-runner/",
 		},
 
 		{
