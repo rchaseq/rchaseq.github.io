@@ -2,6 +2,7 @@
 	"name": "Rowan's Portfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio for Rowan Quinn built using React",
+	"homepage": "https://rchaseq.github.io/",
 	"author": {
 		"name": "Rowan Quinn"
 	},
