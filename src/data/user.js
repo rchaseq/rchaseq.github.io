@@ -3,7 +3,7 @@ const INFO = {
 		title: "Rowan's Portfolio",
 		name: "Rowan Q",
 		email: "rchasequinn@gmail.com",
-		logo: "../logo.png",
+		logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 	},
 
 	socials: {
@@ -32,16 +32,16 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Mouse Runner",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://rchaseq.github.io/mouse-runner/",
 		},
 
 		{
-			title: "Project 2",
+			title: "Potato Clicker",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
@@ -50,7 +50,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 3",
+			title: "Bus Route Tracker",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
@@ -59,7 +59,7 @@ const INFO = {
 		},
 
 		{
-			title: "Project 4",
+			title: "Cat Party",
 			description:
 				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
