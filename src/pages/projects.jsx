@@ -21,6 +21,7 @@ const Projects = () => {
 	return (
 		<React.Fragment>
 			<Helmet>
+				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 				<title>{`Projects | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta

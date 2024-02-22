@@ -21,6 +21,7 @@ const Contact = () => {
 	return (
 		<React.Fragment>
 			<Helmet>
+				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 				<title>{`Contact | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
 				<meta
@@ -47,7 +48,7 @@ const Contact = () => {
 							Please feel free to
 							&nbsp;{""}
 							<a href={`mailto:${INFO.main.email}`}>
-							"email me directly"
+							email me directly 
 							</a>
 							or find me on the following platforms:
 							{" "}

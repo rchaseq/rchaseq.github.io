@@ -18,6 +18,7 @@ const Notfound = () => {
 	return (
 		<React.Fragment>
 			<div className="not-found page-content">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 				<NavBar />
 				<div className="content-wrapper">
 					<div className="notfound-logo-container">
