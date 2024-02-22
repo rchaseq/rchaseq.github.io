@@ -9,32 +9,26 @@ const INFO = {
 	socials: {
 		linkedin: "https://www.linkedin.com/in/rchaseq/",
 		github: "https://github.com/rchaseq/",
-		stackoverflow: "https://stackoverflow.com/",
+		stackoverflow: "https://stackoverflow.com/users/5339956/r-chase",
 	},
 
 	homepage: {
-		title: "Full-stack web developer and entrepreneur",
+		title: "Full-stack web developer and aspiring software engineer",
 		description:
 			"I am a full-stack JavaScript developer (MERN) and software engineer with expertise in ReactJS. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills! I am always looking for new challenges and opportunities to grow as an engineer.",
 	},
 
 	about: {
-		title: "I'm Rowan Quinn",
+		title: "Hi! I'm Rowan Quinn",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Please feel free to check out the code and suggest any improvements or enhancements! Collaborating with others is a great way to learn and grow, and I am always open to new ideas and feedback. :)",
-	},
-
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"I have worked on a variety of projects over the years, and I am proud of the progress I've made. Please feel free to check out the code and suggest any improvements or enhancements! Collaborating with others is a great way to learn and grow, and I am always open to new ideas and feedback. :)",
 	},
 
 	projects: [
 		{
 			title: "Mouse Runner",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"An endless runner game that I created with Phaser 3. It utilizes object pooling to generate platforms on the fly.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "http://rchaseq.github.io/mouse-runner/",
@@ -43,7 +37,7 @@ const INFO = {
 		{
 			title: "Potato Clicker",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A clicker game engine that I created with vanilla JavaScript. I also utilized JS Cookie and Swarm Number Format.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
 			linkText: "View Project",
 			link: "http://rchaseq.github.io/potato-clicker/",
@@ -52,7 +46,7 @@ const INFO = {
 		{
 			title: "Bus Route Tracker",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"This is a bus tracker that tracks my local UCAT bus line. I created it with GeoJSON and Mapbox Studio. It demonstrates manipulation of the CSS grid.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
 			link: "http://rchaseq.github.io/bus-tracker/",
@@ -61,28 +55,28 @@ const INFO = {
 		{
 			title: "Cat Party",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"This is a DOM manipulation demonstration. You can create cats by using array methods with the click of a button, and each cat will bounce around the browser window at its own pace. The more you click the Dance Party button, the faster they go.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "http://rchaseq.github.io/catfactory/",
 		},
 
 		{
-			title: "Project 5",
+			title: "Always Watching",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"This is a dynamic CSS demonstration. Two eyes follow your mouse movement exactly. HTML, JavaScript and CSS were utilized.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "http://rchaseq.github.io/alwayswatching/",
 		},
 
 		{
-			title: "Project 6",
+			title: "To Do List",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"A rudimentary to do list created with ReactJS where items can be added, removed and checked off.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "http://rchaseq.github.io/todo/",
 		},
 	],
 };

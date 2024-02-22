@@ -49,7 +49,7 @@ const Socials = () => {
 							className="social-icon"
 						/>
 					</div>
-					<div className="social-text">Follow on Stack Overflow</div>
+					<div className="social-text">Follow me on Stack Overflow</div>
 				</a>
 			</div>
 				</a>
