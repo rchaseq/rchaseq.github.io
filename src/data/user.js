@@ -19,9 +19,9 @@ const INFO = {
 	},
 
 	about: {
-		title: "Hi! I'm Rowan Quinn",
+		title: "Hi! I'm Rowan.",
 		description:
-			"I have worked on a variety of projects over the years, and I am proud of the progress I've made. Please feel free to check out the code and suggest any improvements or enhancements! Collaborating with others is a great way to learn and grow, and I am always open to new ideas and feedback. :)",
+			"I am an aspiring web/software developer and lifelong resident of New York's Hudson Valley. I have always loved computers and as a kid I used to play with the  MS-DOS command line interface on an old, internet-incapable IBM PC that was given to my family in the late 90s. Growing up, money was tight - so we were late joining the home computer party, but we got there! I began my journey in earnest by teaching myself how to code about 10 years back. I was encouraged by a great long-time friend, who is a Senior Software Architect in his own right, and who convinced me of my own potential. So I learned just enough C# to be dangerous, but wanted to formally learn another object-oriented programming language that I could experiment with in different applications. JavaScript and its libraries lend itself well to web applications and software alike, so I made up my mind to learn it. Feedback is essential to learning, so I wanted to join a standardized course that would allow me to check my understanding. In 2022, I enrolled in and successfully completed the full-stack JavaScript (MERN) development program from MIT xPro. When I am not coding I enjoy playing video games, roasting coffee, brewing beer, creating unique wines, and sharing all of these with my family and friends! Hobbies aside, I am married to my wife Nicki who is my best friend and we have two cats whom we spoil immensely. :) ",
 	},
 
 	projects: [

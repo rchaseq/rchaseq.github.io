@@ -45,11 +45,13 @@ const Projects = () => {
 
 						<div className="subtitle projects-subtitle">
 							I have worked on a variety of projects over the years,
-							and I am proud of the progress I've made.
+							and while I am proud of the progress I've made, I am still
+							actively learning and developing my skills...so there will
+							be more, better projects coming!
 
 							Please feel free to check out the code and suggest
 							any improvements or enhancements you might have in
-							mind! Collaborating with others is a great way to
+							mind. Collaborating with others is a great way to
 							learn and grow, and I'm always open to new ideas and
 							feedback.
 						</div>
