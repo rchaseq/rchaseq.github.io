@@ -46,7 +46,7 @@ const Contact = () => {
 
 						<div className="subtitle contact-subtitle">
 							Please feel free to 
-							&nbsp;{""}
+							&nbsp;{"email me directly"}
 							<a href={`mailto:${INFO.main.email}`}>
 							 email me directly 
 							</a>
