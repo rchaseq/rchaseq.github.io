@@ -26,6 +26,7 @@ const Socials = () => {
 						/>
 					</div>
 					<div className="social-text">Follow me on LinkedIn</div>
+
 			<div className="social">
 				<a href={INFO.socials.github} target="_blank" rel="noreferrer">
 					<div className="social-icon">
@@ -35,10 +36,7 @@ const Socials = () => {
 						/>
 					</div>
 					<div className="social-text">Follow me on GitHub</div>
-				</a>
-			</div>
-				</a>
-			</div>
+
 			<div className="social">
 				<a
 					href={INFO.socials.stackoverflow}
@@ -52,6 +50,10 @@ const Socials = () => {
 						/>
 					</div>
 					<div className="social-text">Follow on Stack Overflow</div>
+				</a>
+			</div>
+				</a>
+			</div>
 				</a>
 			</div>
 			<div className="email">
