@@ -45,30 +45,19 @@ const Contact = () => {
 						</div>
 
 						<div className="subtitle contact-subtitle">
-							Please feel free to 
-							&nbsp;{"email me directly"}
-							<a href={`mailto:${INFO.main.email}`}>
-							 email me directly 
-							</a>
-							 or find me on the following platforms:
-							{" "}
-							<a
-								href={INFO.socials.instagram}
-								target="_blank"
-								rel="noreferrer"
-							>
-								{INFO.socials.instagram}
-							</a>
-							I look forward to hearing from you!
+							Please feel free to <a href="mailto:rchasequinn@gmail.com">email me directly</a> or
+							find me on the following platforms:
+
 						</div>
 					</div>
-
 					<div className="socials-container">
 						<div className="contact-socials">
 							<Socials />
 						</div>
+						<div className="subtitle contact-subtitle">
+							I look forward to hearing from you!
 					</div>
-
+					</div>
 					<div className="page-footer">
 						<Footer />
 					</div>
