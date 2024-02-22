@@ -61,7 +61,7 @@ const About = () => {
 										/>
 									</div>
 								</div>
-
+							<div className="socials-container">
 								<div className="about-socials">
 									<Socials />
 								</div>
@@ -69,6 +69,7 @@ const About = () => {
 						</div>
 						<div className="about-socials-mobile">
 							<Socials />
+						</div>
 						</div>
 					</div>
 					<div className="page-footer">

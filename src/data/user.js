@@ -38,7 +38,7 @@ const INFO = {
 			title: "Potato Clicker",
 			description:
 				"A clicker game engine that I created with vanilla JavaScript. I also utilized JS Cookie and Swarm Number Format.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "http://rchaseq.github.io/potato-clicker/",
 		},
@@ -62,22 +62,23 @@ const INFO = {
 		},
 
 		{
-			title: "Always Watching",
-			description:
-				"This is a dynamic CSS demonstration. Two eyes follow your mouse movement exactly. HTML, JavaScript and CSS were utilized.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "http://rchaseq.github.io/alwayswatching/",
-		},
-
-		{
 			title: "To Do List",
 			description:
-				"A rudimentary to do list created with ReactJS where items can be added, removed and checked off.",
+				"A rudimentary to do list created with ReactJS where items can be added, removed and checked off. This demonstrates React components, state management, props, event handling, and styling.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "http://rchaseq.github.io/todo/",
 		},
+
+		{
+			title: "Always Watching",
+			description:
+				"This is a dynamic CSS demonstration. Two eyes follow your mouse movement exactly. HTML, JavaScript and CSS were utilized.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png",
+			linkText: "View Project",
+			link: "http://rchaseq.github.io/alwayswatching/",
+		},
+
 	],
 };
 
