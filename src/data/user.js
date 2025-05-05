@@ -27,6 +27,15 @@ const INFO = {
 	projects: [
 
 		{
+			title: "PurrfectScore",
+			description:
+				"PurrfectScore is a full-stack AI-powered web app that lets users upload cat photos to be rated for cuteness by a custom-trained TensorFlow model, enhanced with GPT-4-generated fun commentary. Built with ReactJS and Firebase, it features user authentication, image uploads, AI-powered scoring, leaderboard rankings, and playful social sharing. The backend, branded 'PURR-C,' integrates a cat detection classifier (built with TensorFlow's MobileNetV2) and a cat rating regression model, deployed through a FastAPI service on Render.",
+			logo: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+			linkText: "View Project",
+			link: "https://purrfectscore.app/",
+		},
+
+		{
 			title: "Turky",
 			description:
 				"A complete mobile-first progressive web app (PWA) that can be installed on a non-Apple device as a standalone app. Turky is a potluck app that allows isolated groups of users to assign dishes to themselves to bring to a potluck and see what everyone else is bringing as well. Vanilla JavaScript frontend and Firebase hosting and backend that handles authentication, cloud functions, and the database itself. SendGrid is integrated as the email server.",
@@ -71,15 +80,6 @@ const INFO = {
 			link: "http://rchaseq.github.io/bus-tracker/",
 		},
 
-
-		{
-			title: "To Do List",
-			description:
-				"A rudimentary to do list created with ReactJS where items can be added, removed and checked off. This demonstrates React components, state management, props, event handling, and styling.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "http://rchaseq.github.io/todo/",
-		},
 
 	],
 };
