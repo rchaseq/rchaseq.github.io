@@ -17,6 +17,7 @@ const About = () => {
 	}, []);
 
 	const currentSEO = SEO.find((item) => item.page === "about");
+	
 
 	return (
 		<React.Fragment>
@@ -41,6 +42,9 @@ const About = () => {
 
 					<div className="about-container">
 						<div className="about-main">
+						{INFO.about.description.map((paragraph, idx) => (
+							<p key={idx} className="mb-4">{paragraph}</p>
+							))}
 							<div className="about-right-side">
 								<div className="title about-title">
 									{INFO.about.title}
