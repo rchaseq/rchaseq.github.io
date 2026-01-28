@@ -17,7 +17,6 @@ const About = () => {
 	}, []);
 
 	const currentSEO = SEO.find((item) => item.page === "about");
-	
 
 	return (
 		<React.Fragment>
@@ -25,10 +24,7 @@ const About = () => {
 				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 				<title>{`About | ${INFO.main.title}`}</title>
 				<meta name="description" content={currentSEO.description} />
-				<meta
-					name="keywords"
-					content={currentSEO.keywords.join(", ")}
-				/>
+				<meta name="keywords" content={currentSEO.keywords.join(", ")} />
 			</Helmet>
 
 			<div className="page-content">
@@ -42,20 +38,21 @@ const About = () => {
 
 					<div className="about-container">
 						<div className="about-main">
-						{INFO.about.description.map((paragraph, idx) => (
-							<p key={idx} className="mb-4">{paragraph}</p>
-							))}
-							<div className="about-right-side">
+							<div className="about-text-side">
 								<div className="title about-title">
 									{INFO.about.title}
 								</div>
-
-								<div className="subtitle about-subtitle">
-									{INFO.about.description}
+								{INFO.about.description.map((paragraph, idx) => (
+									<p key={idx} className="about-paragraph">
+										{paragraph}
+									</p>
+								))}
+								<div className="about-socials-mobile">
+									<Socials />
 								</div>
 							</div>
 
-							<div className="about-left-side">
+							<div className="about-image-side">
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
@@ -65,17 +62,13 @@ const About = () => {
 										/>
 									</div>
 								</div>
-							<div className="socials-container">
 								<div className="about-socials">
 									<Socials />
 								</div>
 							</div>
 						</div>
-						<div className="about-socials-mobile">
-							<Socials />
-						</div>
-						</div>
 					</div>
+
 					<div className="page-footer">
 						<Footer />
 					</div>

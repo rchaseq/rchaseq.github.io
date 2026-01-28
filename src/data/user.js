@@ -13,7 +13,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web developer and aspiring software engineer",
+		title: "Full-stack web developer and software engineer",
 		description:
 			"I am a full-stack JavaScript developer (MERN) and software engineer with expertise in ReactJS. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills! I am always looking for new challenges and opportunities to grow as an engineer.",
 	},
@@ -21,13 +21,11 @@ const INFO = {
 	about: {
 		title: "Hi! I'm Rowan.",
 		description: [
-			"I am an aspiring web/software developer and lifelong resident of New York's Hudson Valley.",
-			"I have always loved computers, and as a kid I used to play with the MS-DOS command line on an old, internet-incapable IBM PC that was given to my family in the late 90s.",
-			"Growing up, money was tight — so we were late joining the home computer party, but we got there! I began my journey in earnest by teaching myself how to code about 10 years ago.",
-			"I was encouraged by a great long-time friend, a Senior Software Architect, who convinced me of my own potential. I learned just enough C# to be dangerous but wanted to formally learn another object-oriented language I could apply to diverse projects.",
+			"I am a web/software developer and lifelong resident of New York's Hudson Valley.",
+			"I have always loved computers, and as a kid I used to play with the MS-DOS command line on an old, internet-incapable IBM PC that was given to my family in the late 90s. Growing up, money was tight — so we were late joining the home computer party, but we got there!",
+			"I began my journey in earnest by teaching myself how to code about 10 years ago. I was encouraged by a great long-time friend, a Senior Software Architect, who convinced me of my own potential. I learned just enough C# to be dangerous but wanted to formally learn another object-oriented language I could apply to diverse projects.",
 			"JavaScript, with its rich ecosystem and libraries, became my choice. I wanted formal feedback to grow, so in 2022 I enrolled in and successfully completed the full-stack JavaScript (MERN) development program from MIT xPro.",
-			"When I am not coding, I enjoy playing video games, roasting coffee, brewing beer, creating unique wines, and sharing all of these with family and friends.",
-			"Hobbies aside, I am married to my best friend Nicki, and together we spoil our two beloved cats immensely. :)"
+			"When I am not coding, I enjoy playing video games, roasting coffee, brewing beer, creating unique wines, and sharing all of these with family and friends. Hobbies aside, I am married to my best friend Nicki, and together we spoil our two beloved cats immensely. :)"
 		],
 	},
 
