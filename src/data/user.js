@@ -15,7 +15,7 @@ const INFO = {
 	homepage: {
 		title: "Full-stack web developer and software engineer",
 		description:
-			"I am a full-stack JavaScript developer (MERN) and software engineer with expertise in ReactJS. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills! I am always looking for new challenges and opportunities to grow as an engineer.",
+			"I am a full-stack JavaScript developer (MERN) and software engineer with expertise in ReactJS and most recently, Python. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills! I am always looking for new challenges and opportunities to grow as an engineer.",
 	},
 
 	about: {
